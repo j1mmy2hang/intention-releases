@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Intention</title>
+        <item>
+            <title>0.1.1</title>
+            <pubDate>Sat, 25 Jul 2026 21:18:52 +0700</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention-0.1.1.md</sparkle:releaseNotesLink>
+            <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention-0.1.1.zip" length="3318392" type="application/octet-stream" sparkle:edSignature="u0WG0T2np3cDIzxry4j5OiBtKa85xaPhhoqhjUzH6lsjH5UT5irUvhb55xeev/Cb8wbcTA1/fjIKHyg9sHexCg=="/>
+        </item>
+    </channel>
+</rss>
