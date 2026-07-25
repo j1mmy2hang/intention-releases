@@ -6,3 +6,6 @@ old_updates/
 # appcast.xml as CDATA. They are read locally at release time and never need serving, so they stay
 # out of the published repo — the notes people read live in the GitHub release and in Sparkle.
 Intention-*.md
+
+# macOS clutter
+.DS_Store
