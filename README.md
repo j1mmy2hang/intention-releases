@@ -1,4 +1,6 @@
-![Intention for Mac](intention-for-mac-en.webp)
+<p align="center">
+  <img src="intention-for-mac-en.webp" alt="Intention for Mac" width="420">
+</p>
 
 *Intention for mac* is an app that I made to help myself know what I’m doing when I’m using my Mac.
 
@@ -19,7 +21,9 @@ Jimmy Zhang
 
 ---
 
-![意图 for Mac](intention-for-mac-cn.webp)
+<p align="center">
+  <img src="intention-for-mac-cn.webp" alt="意图 for Mac" width="420">
+</p>
 
 *意图 for mac* 是我的一个软件，帮助我用电脑的时候知道我在干什么。
 
