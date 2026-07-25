@@ -1,4 +1,4 @@
-*Intention for mac* is an app that I made to help myself know what I'm doing when I'm using my Mac.
+*Intention for mac* is an app that I made to help myself know what I’m doing when I’m using my Mac.
 
 Too often than not we open laptops mindlessly without a clear purpose, and end up horsing around for hours.
 
@@ -12,7 +12,7 @@ So I want to share this app to you as well –– to help you use your mac with 
 
 [Click here to try it out.](../../releases/latest)
 
-Sincerely,
+Sincerely,  
 Jimmy Zhang
 
 ---
@@ -33,5 +33,5 @@ Jimmy Zhang
 
 [点击此处下载尝试。](../../releases/latest)
 
-此致，
+此致，  
 Jimmy Zhang
