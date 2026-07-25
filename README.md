@@ -1,42 +1,37 @@
-# Intention for Mac
+*Intention for mac* is an app that I made to help myself know what I'm doing when I'm using my Mac.
 
-**Know what you are doing, whenever you are on your Mac.**
+Too often than not we open laptops mindlessly without a clear purpose, and end up horsing around for hours.
 
-Too often we open a laptop without a clear purpose and end up horsing around for hours. Intention
-asks one question before that happens, and keeps honest time on the answer.
+*Intention for mac* is built to help you reclaim agency over your work and refuse to let tool enslave its user.
 
-A Mac should be the *tool* for work, not the *space* for it.
+Prompting me to pause and reflect every time before opening my laptop, this app has made me realize that oftentimes I don't need to open my laptop to work at all.
 
-[**intention-for-mac.app**](https://intention-for-mac.app) · [**Download**](../../releases/latest)
+Mac should be the *tool* not *space* for work.
+
+So I want to share this app to you as well –– to help you use your mac with intention, and furthermore, in life in general as well, *know what you are doing*.
+
+[Click here to try it out.](../../releases/latest)
+
+Sincerely,
+Jimmy Zhang
 
 ---
 
-## What it does
+*意图 for mac* 是我的一个软件，帮助我用电脑的时候知道我在干什么。
 
-- **Asks what you intend to do** — at login, on waking, and whenever a session ends.
-- **Times the answer**, whether that's work or horsing around. Both are honest answers; only one of
-  them should quietly become three hours.
-- **Counts only the time you are actually there.** Sleep, lock, walking away — none of it accrues.
-- **Checks back in** while you're horsing around, on an interval you choose.
-- **Never locks you out.** ⌃⌥⌘B dismisses any prompt. It's a gatekeeper with a quiet voice.
+我发现很多时候我打开电脑并没有一个明确的目标，只是无意识地切换软件和漫无目的地浏览，仿佛是为了用电脑而用电脑。
 
-The dashboard — your day drawn as it really went — is the one paid feature, a one-time €9.99.
-Everything else is free.
+我希望重新夺回使用电脑的主权 –– 不要让电脑这个工具奴役我的生活。生活有很多电脑之外的美好的事情可以做，对吧。
 
-Requires macOS 26 or later. Signed and notarised, so it opens without warnings, and it updates
-itself from here.
+电脑只是达成工作的工具，而不是工作本身。
 
-Early days: the version numbers start with `0.` for a reason. Things may still move.
+*意图 for mac* 很简单：每次打开电脑，它会强迫我输入意图，向我确认我是来干什么的。输入后它会开启倒计时，并在时间结束的时候提醒我任务有没有完成，防止我无限制的使用电脑。
 
-## About this repository
+它让我重新思考我的工作并发现 –– 很多时候我其实根本不需要电脑。
 
-It holds the release feed and the builds — no source code. It's public because Intention updates
-itself through [Sparkle](https://sparkle-project.org), which fetches `appcast.xml` without
-credentials.
+我想把*意图 for mac* 送给更多的人，帮助更多的人有意图的使用电脑，而不是被电脑奴役。也希望这种意识能延伸到生活的层面 –– 无论做什么，都清楚自己正在做什么，以及为什么而做。
 
-Every build is signed twice over: with an Apple Developer ID certificate and notarised by Apple,
-and again with an EdDSA key whose public half is compiled into the app. Intention refuses to install
-anything that second signature doesn't verify — so even someone able to replace a file here could
-not make an installed copy accept it.
+[点击此处下载尝试。](../../releases/latest)
 
-Found a bug, or something feels wrong? [Open an issue](../../issues).
+此致，
+Jimmy Zhang
