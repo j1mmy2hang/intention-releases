@@ -8,7 +8,11 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention-0.1.1.md</sparkle:releaseNotesLink>
+            <description sparkle:format="markdown"><![CDATA[- Intention no longer offers you an update while it's asking what you intend to do. The update
+  window would have opened behind the overlay, which holds the screen and keeps taking focus back —
+  leaving you unable to answer the question or dismiss the update. A check that arrives at a bad
+  moment now waits for the overlay to close rather than being dropped.
+]]></description>
             <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention-0.1.1.zip" length="3318392" type="application/octet-stream" sparkle:edSignature="u0WG0T2np3cDIzxry4j5OiBtKa85xaPhhoqhjUzH6lsjH5UT5irUvhb55xeev/Cb8wbcTA1/fjIKHyg9sHexCg=="/>
         </item>
     </channel>
