@@ -1,3 +1,5 @@
+![Intention for Mac](intention-for-mac-en.webp)
+
 *Intention for mac* is an app that I made to help myself know what I’m doing when I’m using my Mac.
 
 Too often than not we open laptops mindlessly without a clear purpose, and end up horsing around for hours.
@@ -10,12 +12,14 @@ Mac should be the *tool* not *space* for work.
 
 So I want to share this app to you as well –– to help you use your mac with intention, and furthermore, in life in general as well, *know what you are doing*.
 
-[Click here to try it out.](../../releases/latest)
+[Click here to try it out.](../../releases/latest/download/Intention.dmg)
 
 Sincerely,  
 Jimmy Zhang
 
 ---
+
+![意图 for Mac](intention-for-mac-cn.webp)
 
 *意图 for mac* 是我的一个软件，帮助我用电脑的时候知道我在干什么。
 
@@ -31,7 +35,7 @@ Jimmy Zhang
 
 我想把*意图 for mac* 送给更多的人，帮助更多的人有意图的使用电脑，而不是被电脑奴役。也希望这种意识能延伸到生活的层面 –– 无论做什么，都清楚自己正在做什么，以及为什么而做。
 
-[点击此处下载尝试。](../../releases/latest)
+[点击此处下载尝试。](../../releases/latest/download/Intention.dmg)
 
 此致，  
 Jimmy Zhang
