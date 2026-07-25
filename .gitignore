@@ -1,0 +1,3 @@
+# Sparkle moves superseded archives here once they drop out of the feed. They are no longer
+# referenced by appcast.xml, so keeping them would grow the repo forever for nothing.
+old_updates/
