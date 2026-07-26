@@ -3,6 +3,27 @@
     <channel>
         <title>Intention</title>
         <item>
+            <title>0.1.2</title>
+            <pubDate>Sun, 26 Jul 2026 18:11:52 +0700</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Opening at login is honest about itself now. The switch reads whether macOS has actually
+  registered Intention rather than what it was last told, so turning Intention off in System
+  Settings is reflected here instead of the switch going on claiming it's on.
+- If macOS is holding the login item pending your approval — which it does sometimes, and which the
+  app can't clear on its own — Intention says so and offers to open the right pane of System
+  Settings, rather than appearing to be on while never starting.
+- Running Intention straight from the disk image or your Downloads folder now explains why opening
+  at login and automatic updates can't work from there, instead of both quietly failing. Dragging
+  it to Applications fixes both, and that's what it tells you.
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention-0.1.2.zip" length="3324811" type="application/octet-stream" sparkle:edSignature="r8g7zLSM62QpcwSZRtVdw/Vg2FvByro0D+KmmNp/5nF9fphTrSUT5wQEj9DFS/btZPFWX/nvJM3Yj48Geb4FDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention3-2.delta" sparkle:deltaFrom="2" length="96138" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8J6Ase6ZXx9F82K6uwj297ZDnBxGYIsruXJoipjTU3Tti5mfMloClpe2VxgtvT/4XC2JLV+tQRSW46zdyVEmAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.1</title>
             <pubDate>Sat, 25 Jul 2026 21:18:52 +0700</pubDate>
             <sparkle:version>2</sparkle:version>
