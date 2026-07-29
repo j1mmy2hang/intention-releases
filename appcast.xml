@@ -3,6 +3,33 @@
     <channel>
         <title>Intention</title>
         <item>
+            <title>0.2.0</title>
+            <pubDate>Wed, 29 Jul 2026 18:39:21 +0700</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- The dashboard licence is now bought and checked through Dodo Payments, and priced in US dollars.
+  Nothing changes about what you get or how you enter a code. No licence had been sold under the old
+  provider, so no existing licence is affected.
+- The paywall no longer quotes a price before you get to the checkout page, which is the one place
+  that can state it correctly for where you are and what you're paying with.
+- An outage at the licence server no longer counts against you. A server error is now treated the
+  same as having no connection at all — your Mac stays unlocked — where before it risked reading as
+  a refusal.
+- Pasting into the dashboard or Settings works. Both windows used to take a click without bringing
+  Intention to the front, which left ⌘V going to whichever app the menu bar still belonged to — so
+  a pasted licence code went somewhere else entirely, with nothing on screen to say so.
+- The dashboard and Settings no longer sit above every other app's windows. They still stay lit
+  while you're working elsewhere, which is the whole point of them, but now you can put something
+  in front when you want to.
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention-0.2.0.zip" length="3317780" type="application/octet-stream" sparkle:edSignature="joGRa7bWQgi5SIhjgByvZTYOU1NoaCzgKxqT05CE9ghb6a4OABLcBQmPInHkJfZJ5VATFlK46+T6BtZKvbb1BQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention4-3.delta" sparkle:deltaFrom="3" length="110554" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="V2xJinye6wOeVNHQLF/LPObc4rBVWcL+PZd6raMc7Sy0Q5Euima3vv+TVSHILz/cXZQ8ibQG6pWlKVhoNbe1Ag=="/>
+                <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention4-2.delta" sparkle:deltaFrom="2" length="127030" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2kofjt55dkX36DMy6izQRWp28EnkQOWtw0YauzrRGvLyGfvvbRWOEZDtTgZ5HcyFhNETD9PMtQ4WB0Xk1/eOAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.2</title>
             <pubDate>Sun, 26 Jul 2026 18:11:52 +0700</pubDate>
             <sparkle:version>3</sparkle:version>
