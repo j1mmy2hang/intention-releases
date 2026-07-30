@@ -3,6 +3,33 @@
     <channel>
         <title>Intention</title>
         <item>
+            <title>0.2.1</title>
+            <pubDate>Thu, 30 Jul 2026 11:55:31 +0700</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- A short introduction the first time you run Intention: four screens on what it's for, ending at
+  your first intention. It appears only when there's no history to show — a fresh install, or after
+  clearing your data — so it never gets in the way of anyone already using the app.
+
+- A new Dashboard section in Settings, for people with a licence, with one thing in it: clear all
+  recorded data and start the dashboard again from empty. It says how many sessions it's about to
+  delete before you press it, and asks once more after. Your settings and your licence are kept.
+
+- The menu bar item can be trimmed down, under Settings › Personalization › Menu bar item. The
+  countdown can be turned off, leaving the menu bar naming what you're working on without a clock
+  ticking beside it — useful if a timer in the corner of the screen is the thing you end up watching
+  instead of the work. The icon can be turned off too, for a crowded menu bar. Either way the session
+  is untouched and still ends at the same time.
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention-0.2.1.zip" length="3340018" type="application/octet-stream" sparkle:edSignature="B3aDHlM7IS1ijWSFyAvmXVtU5F1G1qC4l8bdps68IHqN+YW6XGAG1SxVMNt3dPxJfJfWrtpPPUI/Ss1ODm59AQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention5-4.delta" sparkle:deltaFrom="4" length="149366" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="041Y6qm4j/N8SaiKZjd2JIW0bEFBiSOw3OmL7MZuXrNdNg/4bbQTK41NfXlrK7nYUTy4Ni8sI5Oc+rdJx0rWDQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention5-3.delta" sparkle:deltaFrom="3" length="167534" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qaQLXalaRL2+4J+latguSH0NofDyXVQkwexQPRLG8l14w1lm8B/Z3LRPjEVxHlVWqLu2ywodrv0pRttogSSoCg=="/>
+                <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention5-2.delta" sparkle:deltaFrom="2" length="174114" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LXWLhya6pc5BO5ZCoqyBUNAfDgoIrdIVDSzWyxV7mRu/rG8D2bSB1FtmPssnZDXORmrf45x88aUQPKKXVMabDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Wed, 29 Jul 2026 18:39:21 +0700</pubDate>
             <sparkle:version>4</sparkle:version>
@@ -49,19 +76,6 @@
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention3-2.delta" sparkle:deltaFrom="2" length="96138" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8J6Ase6ZXx9F82K6uwj297ZDnBxGYIsruXJoipjTU3Tti5mfMloClpe2VxgtvT/4XC2JLV+tQRSW46zdyVEmAA=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.1</title>
-            <pubDate>Sat, 25 Jul 2026 21:18:52 +0700</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Intention no longer offers you an update while it's asking what you intend to do. The update
-  window would have opened behind the overlay, which holds the screen and keeps taking focus back —
-  leaving you unable to answer the question or dismiss the update. A check that arrives at a bad
-  moment now waits for the overlay to close rather than being dropped.
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention-0.1.1.zip" length="3318392" type="application/octet-stream" sparkle:edSignature="u0WG0T2np3cDIzxry4j5OiBtKa85xaPhhoqhjUzH6lsjH5UT5irUvhb55xeev/Cb8wbcTA1/fjIKHyg9sHexCg=="/>
         </item>
     </channel>
 </rss>
