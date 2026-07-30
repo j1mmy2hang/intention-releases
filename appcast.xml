@@ -3,6 +3,26 @@
     <channel>
         <title>Intention</title>
         <item>
+            <title>0.2.2</title>
+            <pubDate>Thu, 30 Jul 2026 12:44:48 +0700</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- The introduction now actually appears on a first run. It was being counted as shown the moment it
+  reached the screen rather than once you had read it, so anything that took it away first — the
+  ⌃⌥⌘B bypass, the screen resting, quitting the app — meant it never came back. And starting an
+  intention from the menu bar skipped it altogether, which on a fresh install is the likeliest thing
+  to click, since there is no window. It is now counted only when you reach the end of it.
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention-0.2.2.zip" length="3340035" type="application/octet-stream" sparkle:edSignature="6Jstr9ylHRx/JL7mmVdrYU6nqyzO8wTm1JzaMxon5E6jrrgJ5WcROhhXJy5AN7NNjVpKUlqTyor0UJpi1Tx9BQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention6-5.delta" sparkle:deltaFrom="5" length="53574" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Fm3z8KcbM/ZuFK1aXVMXzG7laiSUsM6EiKz2yOsTOB+d71DD4yNDKp0wHLXZOJMCsOLgaY2mXGA1k/60FbOcAw=="/>
+                <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention6-4.delta" sparkle:deltaFrom="4" length="148750" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VkGfKaZkuG5P8kBvIF4hlRs4LYTI+o0bXJBDhmINwDKQo2a9WJO/h6C7qcKtb4r86yeB4aHlFtHPnqWQvl+nDA=="/>
+                <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention6-3.delta" sparkle:deltaFrom="3" length="167282" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="U92o//6t3QavIeurv6cRH3JSmx8jXFL1Bc566OuWJ5NC9ck7BCgszmHfKbhadI2ZFnyAjTRrhig5cW8IHuNaDg=="/>
+                <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention6-2.delta" sparkle:deltaFrom="2" length="172798" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wUEYintm01z+06vNiPcLYwNiB4CFcjTZ62N2sy+0gEsngUVqPuIkRWztgJdy35p/I1RQtba10XCzIfxaS51HCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.1</title>
             <pubDate>Thu, 30 Jul 2026 11:55:31 +0700</pubDate>
             <sparkle:version>5</sparkle:version>
@@ -54,27 +74,6 @@
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention4-3.delta" sparkle:deltaFrom="3" length="110554" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="V2xJinye6wOeVNHQLF/LPObc4rBVWcL+PZd6raMc7Sy0Q5Euima3vv+TVSHILz/cXZQ8ibQG6pWlKVhoNbe1Ag=="/>
                 <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention4-2.delta" sparkle:deltaFrom="2" length="127030" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2kofjt55dkX36DMy6izQRWp28EnkQOWtw0YauzrRGvLyGfvvbRWOEZDtTgZ5HcyFhNETD9PMtQ4WB0Xk1/eOAw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.2</title>
-            <pubDate>Sun, 26 Jul 2026 18:11:52 +0700</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Opening at login is honest about itself now. The switch reads whether macOS has actually
-  registered Intention rather than what it was last told, so turning Intention off in System
-  Settings is reflected here instead of the switch going on claiming it's on.
-- If macOS is holding the login item pending your approval — which it does sometimes, and which the
-  app can't clear on its own — Intention says so and offers to open the right pane of System
-  Settings, rather than appearing to be on while never starting.
-- Running Intention straight from the disk image or your Downloads folder now explains why opening
-  at login and automatic updates can't work from there, instead of both quietly failing. Dragging
-  it to Applications fixes both, and that's what it tells you.
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention-0.1.2.zip" length="3324811" type="application/octet-stream" sparkle:edSignature="r8g7zLSM62QpcwSZRtVdw/Vg2FvByro0D+KmmNp/5nF9fphTrSUT5wQEj9DFS/btZPFWX/nvJM3Yj48Geb4FDw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention3-2.delta" sparkle:deltaFrom="2" length="96138" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8J6Ase6ZXx9F82K6uwj297ZDnBxGYIsruXJoipjTU3Tti5mfMloClpe2VxgtvT/4XC2JLV+tQRSW46zdyVEmAA=="/>
             </sparkle:deltas>
         </item>
     </channel>
