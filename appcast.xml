@@ -3,6 +3,27 @@
     <channel>
         <title>Intention</title>
         <item>
+            <title>0.4.0</title>
+            <pubDate>Fri, 07 Aug 2026 13:50:20 +0800</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- A wrong turn can now be taken back. Whenever there's a step behind you, a small chevron appears
+  at the top left of the overlay — or press ⌘[. Going back animates the way it came.
+- Answering "Yes, I'm done" is no longer irreversible: go back from the congratulations page and
+  your session is still running, exactly as you left it. The same goes for finishing on a return.
+- What you typed as your intention now survives going back to the naming screen and returning to it.
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention-0.4.0.zip" length="3366273" type="application/octet-stream" sparkle:edSignature="MRf9CRkMRtbhlquBNe/+qkLPkNPhzTm4RWendpuHutVlnPoCYwCli6+Ra0MdP1VSWoFZkk/vPC9dTXTWaDTVDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention9-8.delta" sparkle:deltaFrom="8" length="130222" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="uMo5SHmJRwqUFbStRxS7HG/xZJgUFDF15Sz4md4JPrQNMoBnvF1URBJxumHUc0k8d0pmJN7dijepI2B2DWw0CA=="/>
+                <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention9-7.delta" sparkle:deltaFrom="7" length="143230" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qqhc+ef4omg4unU3GCD1mcw5fzBFZ6+QfiBmn/t/oRTLn/pO+Q+5l0TU/7IrfTUKc241GodjrfiF0UumB3QuBA=="/>
+                <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention9-6.delta" sparkle:deltaFrom="6" length="152166" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wZgisJD+UFNq907I7HEQ7K9dvuilRG8Q8GWBrECjvrAxQUkWiNqlL0zgOAermQFZakQPVR8f9A3HI5bF4m2GBw=="/>
+                <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention9-5.delta" sparkle:deltaFrom="5" length="153306" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EJdpL21wzz1C35JO0zspbPELoYwLqT4X5tRdPBSdOwqIO8xeMf9pNpo7l9XOJ4hveU4i9ArhNQGnDJsDOtZcCQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention9-4.delta" sparkle:deltaFrom="4" length="192902" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dR9MPuVpGrg5mDcfqrBeYS1MOD4Iz6cTnz4fW8hmf1OohXQsXo/aVvTL44QDGBNaFG/2zPMezMbHmZK4HDFGCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.1</title>
             <pubDate>Wed, 05 Aug 2026 23:49:30 +0800</pubDate>
             <sparkle:version>8</sparkle:version>
@@ -37,26 +58,6 @@
                 <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention7-4.delta" sparkle:deltaFrom="4" length="157878" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IjcrCRRBC5UC0aTnlbGcTMiYBRGa0w5NDMBeSMDWVOwvMXHJ9Xy2cjYp9kFSgOFaj6yhaxrvqTyoyU4QfzyYDQ=="/>
                 <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention7-3.delta" sparkle:deltaFrom="3" length="172414" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vSncr8jx/NhWHm36w8HiLRx1nbV2tv8VOe+8TrvG9CsXubuhvKQZf0wDvjQ9AhNvxRImh7zYLBUdW1Fmck/zBA=="/>
                 <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention7-2.delta" sparkle:deltaFrom="2" length="180526" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Xoa9bTlSbUTF4taS/JHID0qtMpJU7xrAhHbdMxXcFHmF1Pz+5xUv+eeYh2NGS8hJqXVR/YEIQmS5dTRm9JGqBQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.2.2</title>
-            <pubDate>Thu, 30 Jul 2026 12:44:48 +0700</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- The introduction now actually appears on a first run. It was being counted as shown the moment it
-  reached the screen rather than once you had read it, so anything that took it away first — the
-  ⌃⌥⌘B bypass, the screen resting, quitting the app — meant it never came back. And starting an
-  intention from the menu bar skipped it altogether, which on a fresh install is the likeliest thing
-  to click, since there is no window. It is now counted only when you reach the end of it.
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention-0.2.2.zip" length="3340035" type="application/octet-stream" sparkle:edSignature="6Jstr9ylHRx/JL7mmVdrYU6nqyzO8wTm1JzaMxon5E6jrrgJ5WcROhhXJy5AN7NNjVpKUlqTyor0UJpi1Tx9BQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention6-5.delta" sparkle:deltaFrom="5" length="53574" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Fm3z8KcbM/ZuFK1aXVMXzG7laiSUsM6EiKz2yOsTOB+d71DD4yNDKp0wHLXZOJMCsOLgaY2mXGA1k/60FbOcAw=="/>
-                <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention6-4.delta" sparkle:deltaFrom="4" length="148750" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VkGfKaZkuG5P8kBvIF4hlRs4LYTI+o0bXJBDhmINwDKQo2a9WJO/h6C7qcKtb4r86yeB4aHlFtHPnqWQvl+nDA=="/>
-                <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention6-3.delta" sparkle:deltaFrom="3" length="167282" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="U92o//6t3QavIeurv6cRH3JSmx8jXFL1Bc566OuWJ5NC9ck7BCgszmHfKbhadI2ZFnyAjTRrhig5cW8IHuNaDg=="/>
-                <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention6-2.delta" sparkle:deltaFrom="2" length="172798" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wUEYintm01z+06vNiPcLYwNiB4CFcjTZ62N2sy+0gEsngUVqPuIkRWztgJdy35p/I1RQtba10XCzIfxaS51HCQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
