@@ -3,6 +3,25 @@
     <channel>
         <title>Intention</title>
         <item>
+            <title>0.5.0</title>
+            <pubDate>Sat, 08 Aug 2026 11:00:24 +0800</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Intention now speaks 简体中文. Settings › General › Language switches the whole interface on the
+  spot; it follows your Mac's language until you choose otherwise.
+- ← and → now move along the quick duration chips when choosing how long you need, alongside Tab.
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention-0.5.0.zip" length="3393252" type="application/octet-stream" sparkle:edSignature="QOv39dS+ckMzoLZ+T8jApSssAVBVjMyzgPDbE/RsA5fdFiZkV4Uzxbuu6LGhVvkiek4fXVDx5IMVv7f7DvkVBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention10-9.delta" sparkle:deltaFrom="9" length="200570" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tJggFGRfS2WoeZRYOQOCkUx0ql/YMcymSSyMlzl3YCuzxm2JNcEvaqqZYVVQZin5ZozkBkcki/blEBCagNYMBQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention10-8.delta" sparkle:deltaFrom="8" length="229918" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="h4NZ1j1pLto/Q68MfDf3XwgpIZQUlZn0QpaZRWSfKvFbqh01PXnUE/3topB45abJBf03pakNS0mjq/moEapKBg=="/>
+                <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention10-7.delta" sparkle:deltaFrom="7" length="235354" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TskD3noV1wkT3N2lLTd2jL+bTGuqvvBEc70ex3rBE5bnORMROAeJZ3taR6ULYmIRs6w7Q8Hs9dDnQ7dLggLQBQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention10-6.delta" sparkle:deltaFrom="6" length="240498" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rFib/Lh17HWjIT29b2P5S9gxI1tYxRYUuV5tdHGU282K2Ry7txePHebxAwtcREWmS8eQAKKhWWAz7KqBG5nrAA=="/>
+                <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention10-5.delta" sparkle:deltaFrom="5" length="241366" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Z1q1pAXavRZI5dgUlJ1oFwo4TyHeeVdnp6e7DuGxcIdNzk1iDE9tETw9p27hhqKmojnb2jZ1W3t3UaJ75bV7Ag=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.4.0</title>
             <pubDate>Fri, 07 Aug 2026 13:50:20 +0800</pubDate>
             <sparkle:version>9</sparkle:version>
@@ -39,25 +58,6 @@
                 <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention8-5.delta" sparkle:deltaFrom="5" length="118462" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oc4/Wr31+REAWIncWXy9T8ybv9VTgNilgd2EhZFmL0O8Fpqe3srLd5J6yeY3nm/0+68Ckt4YaBiEpHeRKNR8DQ=="/>
                 <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention8-4.delta" sparkle:deltaFrom="4" length="164686" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="R7cgtohsO/Vp5J2amljg0ZxH1z35F61HKtQFRLtb5TFHzDAgPl/JWMXdj9gYPfQYMTK5gV+0PaDHuohUv5b8Cg=="/>
                 <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention8-3.delta" sparkle:deltaFrom="3" length="180142" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZeKSp2bYgI7ihsBT0UUyCPsklhGKg5RlwJZOgFpSGrx8tVIR6+ug4oE+tvoTh/AyfCmsgDmKETN9k2xOqx0lAA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.3.0</title>
-            <pubDate>Sun, 02 Aug 2026 14:22:11 +0700</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Choosing "Horsing around" now occasionally asks once more before it starts: *Do you actually want
-  to horse around?* — "No, I actually have something to do" takes you to naming a task, "Yes, horse
-  around" starts it as usual. Never twice in a day, and on no pattern you can anticipate.
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention-0.3.0.zip" length="3344286" type="application/octet-stream" sparkle:edSignature="/0itNeiBPpRI46lW8PuGIcBljIzkRsAl2eUimlJwZ2kmUdLJPcm8uLstfLRD7NVsHF6PrY1TgDch9FIOaDVqAQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention7-6.delta" sparkle:deltaFrom="6" length="102194" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7rgRmaqmQy7Fl36/pz2bSu6nvI92dKK/ZhHsvlF9Z4u55UgKXz0aPVxY1w2SfhlC5/wjb58UGwA90XNew9V5Dg=="/>
-                <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention7-5.delta" sparkle:deltaFrom="5" length="104310" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gKcuuhg9EA3RH9WxOAqPTiS/iC0C2Xy8fFQz1003cjPsTBVa/0aauulXEbwB1Isie6K7oCqtEGEXIhP52X9PAg=="/>
-                <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention7-4.delta" sparkle:deltaFrom="4" length="157878" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IjcrCRRBC5UC0aTnlbGcTMiYBRGa0w5NDMBeSMDWVOwvMXHJ9Xy2cjYp9kFSgOFaj6yhaxrvqTyoyU4QfzyYDQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention7-3.delta" sparkle:deltaFrom="3" length="172414" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vSncr8jx/NhWHm36w8HiLRx1nbV2tv8VOe+8TrvG9CsXubuhvKQZf0wDvjQ9AhNvxRImh7zYLBUdW1Fmck/zBA=="/>
-                <enclosure url="https://raw.githubusercontent.com/j1mmy2hang/intention-releases/main/Intention7-2.delta" sparkle:deltaFrom="2" length="180526" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Xoa9bTlSbUTF4taS/JHID0qtMpJU7xrAhHbdMxXcFHmF1Pz+5xUv+eeYh2NGS8hJqXVR/YEIQmS5dTRm9JGqBQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
